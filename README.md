@@ -10,5 +10,5 @@ This package adds some file operations to the standard go ssh library.
 
 ## Non-Goals
 
-- Support the entire set of SFTP operations. Please see the [https://godoc.org/golang.org/x/crypto/ssh](https://godoc.org/golang.org/x/crypto/ssh) package.
+- Support the entire set of SFTP operations. Please see the [https://github.com/pkg/sftp](https://github.com/pkg/sftp) package.
 - Support SCP. Please see the [https://github.com/kkirsche/gscp](https://github.com/kkirsche/gscp) package.
